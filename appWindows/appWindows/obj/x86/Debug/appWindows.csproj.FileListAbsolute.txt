@@ -12,3 +12,11 @@ C:\GitHubTest\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.Proper
 C:\GitHubTest\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.csproj.GenerateResource.Cache
 C:\GitHubTest\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.exe
 C:\GitHubTest\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.pdb
+D:\IZZI\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.exe
+D:\IZZI\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.pdb
+D:\IZZI\VisualStudio\appWindows\appWindows\bin\Debug\appWindows.exe
+D:\IZZI\VisualStudio\appWindows\appWindows\bin\Debug\appWindows.pdb
+D:\IZZI\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.Form1.resources
+D:\IZZI\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.Properties.Resources.resources
+D:\IZZI\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.csproj.GenerateResource.Cache
+D:\IZZI\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.csprojResolveAssemblyReference.cache
