@@ -20,5 +20,10 @@ namespace appWindows
         {
             MessageBox.Show("Hello World!!");
         }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Me agregaron 2 version!!");
+        }
     }
 }

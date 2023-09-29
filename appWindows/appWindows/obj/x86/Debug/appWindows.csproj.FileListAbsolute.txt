@@ -5,3 +5,10 @@ C:\GitHubTest\ProyectoVisual\appWindows\appWindows\obj\x86\Debug\appWindows.Prop
 C:\GitHubTest\ProyectoVisual\appWindows\appWindows\obj\x86\Debug\appWindows.csproj.GenerateResource.Cache
 C:\GitHubTest\ProyectoVisual\appWindows\appWindows\obj\x86\Debug\appWindows.exe
 C:\GitHubTest\ProyectoVisual\appWindows\appWindows\obj\x86\Debug\appWindows.pdb
+C:\GitHubTest\VisualStudio\appWindows\appWindows\bin\Debug\appWindows.exe
+C:\GitHubTest\VisualStudio\appWindows\appWindows\bin\Debug\appWindows.pdb
+C:\GitHubTest\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.Form1.resources
+C:\GitHubTest\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.Properties.Resources.resources
+C:\GitHubTest\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.csproj.GenerateResource.Cache
+C:\GitHubTest\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.exe
+C:\GitHubTest\VisualStudio\appWindows\appWindows\obj\x86\Debug\appWindows.pdb
