@@ -18,12 +18,12 @@ namespace appWindows
 
         private void btnEjecutar_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World!!");
+            MessageBox.Show("Hello World!!" + "RAMA IVAN");
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Me agregaron 2 version!!");
+            MessageBox.Show("Me agregaron 2 version!!" + "RAMA IVAN");
         }
     }
 }
